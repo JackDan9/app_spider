@@ -14,7 +14,7 @@
 
 ## Build
 ```
-jackdan@jackdan-ThinkPad-T430:~$ git clone
+jackdan@jackdan-ThinkPad-T430:~$ git clone git@github.com:JackDan9/app_spider.git
 jackdan@jackdan-ThinkPad-T430:~$ cd app_spider
 
 ### install virtualenv
